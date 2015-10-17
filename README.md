@@ -31,4 +31,4 @@ public void onActivityResult(int requestCode, int resultCode, Intent data) {
 }
 ```
 #ScreenShot
-
+![screen shot](https://raw.githubusercontent.com/taolulu/ImageCroper/master/Screenshot_2015-10-17-17-01-36_com.practice.taxer.png)
