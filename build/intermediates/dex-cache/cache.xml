@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/taXer/ImageCroper/app/build/intermediates/exploded-aar/ImageCroper/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e1e745467fc128afcc054a3a6e0d309d8a5aaca">
+        <dex dex="/Users/taXer/ImageCroper/app/build/intermediates/pre-dexed/debug/classes-53e04aa0150d22e28b80d295e6effe69e26ed853.jar" />
+    </item>
+
+</items>

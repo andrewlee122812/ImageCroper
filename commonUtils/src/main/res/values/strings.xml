@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">commonUtils</string>
+    <string-array name="strategy_orders">
+        <item>默认</item>
+        <item>人气最高</item>
+        <item>评价最好</item>
+    </string-array>
+</resources>

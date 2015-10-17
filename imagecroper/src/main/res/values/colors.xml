@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mask_area">#e6f6f6f6</color>
+    <color name="background_black">#000000</color>
+    <color name="background_white">#ffffff</color>
+    <color name="light_gray">#999999</color>
+    <color name="normal_gray">#515151</color>
+    <color name="dark_gray">#333333</color>
+    <color name="text_choosen_red">#ff6666</color>
+
+</resources>

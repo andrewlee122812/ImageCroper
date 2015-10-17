@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Ilike_PopWindow_Anim" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/anim_popwindow_show</item>
+        <item name="@android:windowExitAnimation">@anim/anim_popwindow_dismiss</item>
+    </style>
+    <style name="Loading_Block_Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+
+    </style>
+</resources>
